@@ -4,4 +4,4 @@
 /img/
 !/img/.gitkeep
 
-/env/
+/.venv/
